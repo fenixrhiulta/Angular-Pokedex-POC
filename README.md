@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido em Angular com fins educativos.
 
-Informações dos Pokemons através da API: [https://pokeapi.co]
+Informações dos Pokemons através da API: https://pokeapi.co
 
 # Preview
 
